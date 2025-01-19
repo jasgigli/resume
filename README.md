@@ -3,7 +3,6 @@
 ## Contact Information
 - **Email:** overview.jjj@gmail.com
 - **WhatsApp:** 0346-0921637
-- **Phone:** 0314-9143061
 - **Address:** Ring Road, Qazi Abad, Peshawar
 - **GitHub:** [github.com/jasgigli](https://github.com/jasgigli)
 
@@ -43,9 +42,6 @@ A results-driven full-stack web developer with expertise in designing, building,
 - Introduction to JavaScript | Great Learning
 - SASS Fundamentals | Mind Luster
 - JavaScript Projects | Great Learning
-- Python for Web Development | Coursera
-- Docker Essentials | Pluralsight
-- WordPress Development | Udemy
 
 ---
 
