@@ -3,7 +3,6 @@
 ## Contact Information
 - **Email:** overview.jjj@gmail.com
 - **WhatsApp:** 0346-0921637
-- **Phone:** 0314-9143061
 - **Address:** Ring Road, Qazi Abad, Peshawar
 - **GitHub:** [github.com/jasgigli](https://github.com/jasgigli)
 
